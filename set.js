@@ -1,8 +1,4 @@
 /*
- * Name: Evelyn Wang
- * Date: oct 26, 2023
- * Section: CSE 154 AD
- *
  * This is the JS to implement the UI for my web page.
  * User can play card games through clicking card after they start.
  * The game will end once the user runs out of the time or clicks
