@@ -1,4 +1,4 @@
-## Card Game
+# Card Game
 
 ### Rules of Set
 This card selection game is inspired by the classic SET! Card game. A game consists of a board of cards. Each card has one of three options for 4 different "attributes":
