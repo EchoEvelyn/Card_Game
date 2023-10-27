@@ -1,5 +1,11 @@
 # Card Game
 
+### Basic rules:
+1. Users can choose game difficulties (easy or standard) and time limit, and then click the start button to start a game.
+2. When the game starts, users choose three cards to form a set or not a set.
+3. Once the game starts, there will be a timer and a set counter.
+4. When users run out of time or click the back-to-main button, the game is over. Only when users click the start button, will the game restarts.
+
 ### Rules of Set
 This card selection game is inspired by the classic SET! Card game. A game consists of a board of cards. Each card has one of three options for 4 different "attributes":
 
